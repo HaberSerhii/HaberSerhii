@@ -1,16 +1,18 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=10000&color=38BDAE&background=0A002A&center=true&vCenter=true&width=1000&height=100&lines=Hi+there+%F0%9F%91%8B%2C+my+name+Serhii%2C++student+of+GOIT+courses+%22Full+Stack+developer%22" alt="Typing SVG" /></a>
 
-<!--
-**HaberSerhii/HaberSerhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Languages and Tools:</h3>
+<div align="center" style="margin-bottom: 40px;">
+  
+    <img src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="./assets/css3-logo.svg" alt="css3" width="40" height="40"/>
+    <img src="./assets/vscode-logo.png" alt="vscode" width="40" height="40"/>
+    <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
+</div>
+<p></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img
+      style="height: auto; width: 70%; margin: 0px 0px 20px 5px"
+      src="https://github-readme-stats.vercel.app/api?username=HaberSerhii&custom_title=Serhii-Haber&show_icons=true&theme=tokyonight&card_width=600"
+    />
+
