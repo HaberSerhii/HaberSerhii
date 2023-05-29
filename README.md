@@ -8,7 +8,7 @@
    <img src="./images/figma-logo.svg" alt="figma" width="50" height="50"/>
 </div>
 <p></p>
-<h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Operation system:</h3>
+<h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Operating system:</h3>
 <div align="center" style="margin-bottom: 40px;">
    <img src="./images/MacOS_logo.svg" alt="html5" width="50" height="50"/>
 </div>
