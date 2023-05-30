@@ -6,6 +6,7 @@
    <img src="./images/css3-logo.svg" alt="css3" width="50" height="50"/>
    <img src="./images/vscode-logo.png" alt="vscode" width="50" height="50"/>
    <img src="./images/figma-logo.svg" alt="figma" width="50" height="50"/>
+   <img src="./images/trello.svg" alt="trello" width="50" height="50"/>
 </div>
 <p></p>
 <h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Operating system:</h3>
