@@ -16,7 +16,6 @@
 <p></p>
 
 <div align="center" style="margin-bottom: 40px;">
-   <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaberSerhii&hide_border=true&card_width=700&theme=tokyonight"/></a>
    <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaberSerhii&theme=tokyonight"/></a>
    <a href=""><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaberSerhii&card_width=700&theme=tokyonight&line_height=40"/> </a>
 
