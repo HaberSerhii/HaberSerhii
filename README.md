@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1500&color=38BDAE&background=0A002A&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Serhii; alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1500&color=38BDAE&background=0A002A&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Serhii;------------------------------------------------------------------" alt="Typing SVG" /></a>
 
 <h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Languages and Tools:</h3>
 <div align="center" style="margin-bottom: 40px;">
@@ -16,8 +16,8 @@
 <p></p>
 
 <div align="center" style="margin-bottom: 40px;">
-   <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaberSerhii&theme=tokyonight"/></a>
    <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaberSerhii&hide_border=true&card_width=700&theme=tokyonight"/></a>
+   <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaberSerhii&theme=tokyonight"/></a>
    <a href=""><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaberSerhii&card_width=700&theme=tokyonight&line_height=40"/> </a>
 
 </div>
